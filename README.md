@@ -1,5 +1,5 @@
 # PyViz
-This repository is for me to practice with APIs on Python. Refer to the Supplemental folder for the necessary downloads.
+This repository is for me to practice visualizations and Python Dashboards using PyViz Library. Refer to the Supplemental folder for the necessary downloads.
 
 ## Topics Covered
 1. hVPlots
