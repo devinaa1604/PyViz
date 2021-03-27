@@ -1,4 +1,12 @@
 # PyViz
+This repository is for me to practice with APIs on Python. Refer to the Supplemental folder for the necessary downloads.
+
+## Topics Covered
+1. hVPlots
+2. Plotly
+3. Mapbox
+4. Matplotlib
+5. Dashboards
 
 ## Slides
 * [6.1 slides](https://docs.google.com/presentation/d/1niPF_N8OQgG416cJizsJnCpJKZG73Iufzd-3H-mRf7E/edit#slide=id.g6ec100051d_0_1068)
